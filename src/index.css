@@ -1,0 +1,24 @@
+
+*, body {
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  background-color: steelblue;
+}
+.myclass{
+  width: 500px;
+}
+
+.link{
+  font-size: large;
+  margin: 20px;
+  
+}
+
+
+
+.tomato{
+  color: tomato;
+}
